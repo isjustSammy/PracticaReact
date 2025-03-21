@@ -14,6 +14,8 @@ const estilo={
         <button type="button" className='boton'>Dark {titulo} </button>
         
     )
+
 }
 
-export default Boton;
+
+

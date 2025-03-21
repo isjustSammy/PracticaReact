@@ -14,6 +14,8 @@ function App() {
     <Boton>titulo={'Boton 6'}</Boton>
     
     </>
+
+    
   )
 }
 
